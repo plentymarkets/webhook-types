@@ -1,4 +1,10 @@
-[
-   "test1",
-   "test2"
-]
+{
+   "order":{
+      "id":"order_successfull",
+      "name":"Order places successfully."
+   },
+   "payment":{
+      "id":"payment processed",
+      "name":"Paid successfully."
+   }
+}
