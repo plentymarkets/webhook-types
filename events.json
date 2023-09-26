@@ -15,6 +15,10 @@
       "name": "Sales order created",
       "description": "Sales order created successfully."
    },
+   "plugin.after-build": {
+      "name": "Plugin set built",
+      "description": "Plugin set was built successfully."
+   },
    "test-event": {
       "name": "Test event",
       "description": "Event used for triggering webhook test."
