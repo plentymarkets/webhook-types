@@ -11,10 +11,6 @@
       "name": "Order deleted",
       "description": "Order deleted successfully."
    },
-   "order.sales-order-created": {
-      "name": "Sales order created",
-      "description": "Sales order created successfully."
-   },
    "plugin.after-build": {
       "name": "Plugin set built",
       "description": "Plugin set was built successfully."
